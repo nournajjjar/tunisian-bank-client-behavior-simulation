@@ -1,0 +1,349 @@
+{
+  "timestamp": "2025-08-24T14:53:18.185525",
+  "economic_context": "Economic Context: Inflation: 7.2%. Interest Rate: 6.5%. GDP Growth: 2.1%. Unemployment: 15.8%. Exchange Rate: 3.11 TND/USD. ",
+  "banks_analyzed": [
+    "Société Tunisienne de Banque (STB)",
+    "Banque Nationale Agricole (BNA)",
+    "Banque de l'Habitat (BH)",
+    "Banque de Financement des PMEs (BFPME)",
+    "Banque Tunisienne de Solidarité (BTS)",
+    "Banque de Tunisie et des Émirats (BTE)",
+    "Banque Tuniso-Libyenne (BTL)",
+    "Tunisian Saudi Bank (TSB)",
+    "Banque Zitouna",
+    "Al Baraka Bank",
+    "Al Wifak International Bank",
+    "Amen Bank",
+    "Attijari Bank",
+    "Arab Tunisian Bank (ATB)",
+    "Banque Internationale Arabe de Tunisie (BIAT)",
+    "Banque de Tunisie (BT)",
+    "Banque Tuniso-Koweïtienne (BTK)",
+    "Qatar National Bank – Tunis (QNB-Tunis)",
+    "Union Bancaire de Commerce et d'Industrie (UBCI)",
+    "Union Internationale de Banque (UIB)"
+  ],
+  "scenarios": [
+    {
+      "title": "Rising Interest Rates and Inflationary Pressures",
+      "description": "Increasing interest rates and inflationary pressures affecting the Tunisian banking sector",
+      "scope": "sector_wide",
+      "trigger": "Central Bank of Tunisia raises interest rates to combat inflation",
+      "timeline": {
+        "short_term": "0-6 months: Interest rates rise by 1.5%, inflation increases by 1%",
+        "medium_term": "6-18 months: Loan growth slows, deposit rates increase",
+        "long_term": "18-36 months: Higher borrowing costs affect consumer spending, GDP growth slows"
+      },
+      "affected_entities": [
+        "All commercial banks",
+        "Microfinance institutions",
+        "Leasing companies"
+      ],
+      "sector_impacts": {
+        "revenue_growth": "-2% to -5%",
+        "loan_portfolio_quality": "Deterioration in loan quality, increased provisioning",
+        "deposit_growth": "Slowing deposit growth, increased competition for deposits"
+      },
+      "differential_impacts": {
+        "BIAT": "Higher exposure to corporate lending may lead to increased credit risk",
+        "BT": "Stronger focus on retail banking may help mitigate impact of rising interest rates",
+        "ATB": "Higher dependence on wholesale funding may lead to increased funding costs"
+      },
+      "metrics": {
+        "interest_rate_spread": "Monitor the difference between lending and deposit rates",
+        "non_performing_loans": "Track the percentage of non-performing loans in the sector",
+        "deposit_growth_rate": "Monitor the annual growth rate of deposits in the sector",
+        "capital_adequacy_ratio": "Track the capital adequacy ratio of banks in the sector"
+      },
+      "type": "market_trend",
+      "id": "scenario_20250824_145257_5857",
+      "probability": 80,
+      "impact_score": 8,
+      "risk_factors": [
+        "Increased credit risk due to higher borrowing costs",
+        "Reduced lending growth and profitability",
+        "Potential for asset quality deterioration",
+        "Higher funding costs and reduced net interest margins",
+        "Increased competition for deposits"
+      ],
+      "opportunities": [
+        "Diversification of revenue streams through non-interest income",
+        "Investment in digital channels to reduce costs and improve efficiency",
+        "Focus on high-yield lending segments, such as SMEs and mortgages",
+        "Strategic partnerships and collaborations to mitigate risks"
+      ],
+      "indicators": [
+        "Net interest margin",
+        "Non-performing loan ratio",
+        "Return on equity",
+        "Cost-to-income ratio",
+        "Deposit growth rate"
+      ],
+      "recommended_actions": [
+        "Regularly review and adjust interest rate risk management strategies",
+        "Diversify funding sources and reduce dependence on wholesale funding",
+        "Enhance credit risk assessment and monitoring",
+        "Invest in digital transformation to improve operational efficiency"
+      ]
+    },
+    {
+      "title": "Economic Shock Impacting Banking Sector",
+      "description": "Significant economic event affecting all Tunisian banks",
+      "scope": "sector_wide",
+      "trigger": "Sudden collapse of Tunisia's major phosphate export market, leading to a sharp decline in foreign exchange earnings and a subsequent depreciation of the Tunisian dinar (TND)",
+      "timeline": {
+        "month 1-3": "Phosphate export market collapse, TND depreciates by 10% against the USD",
+        "month 4-6": "Inflation surges to 9.5%, interest rates rise to 7.5% to combat inflationary pressures",
+        "month 7-9": "GDP growth slows to 1.5%, unemployment increases to 17.2%",
+        "month 10-12": "Banking sector begins to feel the strain, with non-performing loans (NPLs) increasing by 20%"
+      },
+      "affected_entities": [
+        "All Tunisian banks, including state-owned and private banks",
+        "Central Bank of Tunisia",
+        "Tunisian government"
+      ],
+      "sector_impacts": {
+        "credit quality": "Deterioration in credit quality, with increased NPLs and loan defaults",
+        "liquidity": "Reduced liquidity, as banks face increased withdrawals and reduced deposits",
+        "capital adequacy": "Erosion of capital buffers, as banks struggle to maintain regulatory requirements",
+        "profitability": "Reduced profitability, as banks face increased provisioning and write-offs"
+      },
+      "differential_impacts": {
+        "BIAT": "Higher exposure to government securities, making it more vulnerable to interest rate fluctuations",
+        "BT": "Stronger focus on retail banking, making it more resilient to economic shocks",
+        "ATB": "Higher exposure to SME lending, making it more vulnerable to credit risk"
+      },
+      "metrics": {
+        "NPL ratio": "Increase in NPL ratio, as a percentage of total loans",
+        "Capital adequacy ratio": "Decrease in capital adequacy ratio, as a percentage of risk-weighted assets",
+        "Return on equity (ROE)": "Decrease in ROE, as a percentage of net income to shareholder equity",
+        "Foreign exchange reserves": "Decrease in foreign exchange reserves, as a percentage of total reserves"
+      },
+      "type": "economic_shock",
+      "id": "scenario_20250824_145259_2428",
+      "probability": 60,
+      "impact_score": 8,
+      "risk_factors": [
+        "Increased credit risk due to rising unemployment",
+        "Reduced lending appetite due to high interest rates",
+        "Depreciation of Tunisian Dinar affecting foreign currency-denominated assets",
+        "Inflationary pressures on operating costs"
+      ],
+      "opportunities": [
+        "Diversification of revenue streams through non-interest income",
+        "Investment in digital channels to reduce costs and improve efficiency",
+        "Consolidation and M&A opportunities in a distressed market"
+      ],
+      "indicators": [
+        "Non-performing loan ratio",
+        "Return on equity",
+        "Cost-to-income ratio",
+        "Capital adequacy ratio"
+      ],
+      "recommended_actions": [
+        "Stress testing and scenario analysis to assess resilience",
+        "Diversification of funding sources to reduce dependence on wholesale funding",
+        "Enhanced risk management and provisioning for potential losses"
+      ]
+    },
+    {
+      "title": "Industry-wide Digital Banking Innovation",
+      "description": "Wave of new digital banking products across multiple banks",
+      "scope": "multiple_banks",
+      "trigger": "Government's announcement of a National Digital Transformation Plan, allocating 100 million TND to support the development of digital infrastructure and encouraging banks to invest in fintech",
+      "timeline": {
+        "short_term": "0-6 months: Banks begin developing digital products and services, partnering with fintech startups and investing in digital infrastructure",
+        "medium_term": "6-18 months: First wave of digital banking products launched, focusing on mobile payment systems and online account management",
+        "long_term": "18-36 months: Expansion of digital products to include loan applications, investment platforms, and personalized financial services"
+      },
+      "affected_entities": [
+        "All major commercial banks in Tunisia, including Societe Generale de Banque en Tunisie, Banque Internationale Arabe de Tunisie, and Attijari Bank Tunisia",
+        "Fintech startups and digital payment companies",
+        "Central Bank of Tunisia, responsible for regulating and supervising the banking sector"
+      ],
+      "sector_impacts": {
+        "increased_competition": "Banks will need to invest heavily in digital infrastructure to remain competitive, potentially leading to increased costs and reduced profit margins",
+        "improved_customer_experience": "Digital banking products will provide customers with greater convenience and flexibility, improving overall satisfaction and loyalty",
+        "job_displacement": "Automation of certain banking tasks may lead to job displacement for some employees, particularly in traditional branch networks"
+      },
+      "differential_impacts": {
+        "BIAT": "As a market leader, BIAT is well-positioned to invest in digital banking and maintain its market share.",
+        "BT": "BT's strong brand and customer base will help it to adapt to digital banking, but it may face challenges in integrating new systems.",
+        "ATB": "ATB's smaller size and limited resources may make it more difficult to invest in digital banking, putting it at risk of falling behind competitors."
+      },
+      "metrics": {
+        "digital_adoption_rate": "Percentage of customers using digital banking products and services",
+        "investment_in_digital_infrastructure": "Total amount invested by banks in digital infrastructure and fintech partnerships",
+        "customer_satisfaction": "Survey-based measure of customer satisfaction with digital banking products and services",
+        "revenue_growth": "Year-over-year revenue growth for each bank, compared to industry average"
+      },
+      "type": "new_product_launch",
+      "id": "scenario_20250824_145300_3597",
+      "probability": 80,
+      "impact_score": 8,
+      "risk_factors": [
+        "Integration challenges with existing systems",
+        "Cybersecurity threats",
+        "High development and maintenance costs",
+        "Dependence on internet and mobile penetration",
+        "Competition from fintech companies"
+      ],
+      "opportunities": [
+        "Increased customer convenience and accessibility",
+        "Cost savings through reduced branch and ATM networks",
+        "New revenue streams from digital services",
+        "Improved customer data collection and analysis",
+        "Enhanced competitiveness and market share"
+      ],
+      "indicators": [
+        "Number of digital banking users",
+        "Volume of digital transactions",
+        "Customer satisfaction ratings",
+        "Return on investment (ROI) for digital banking initiatives",
+        "Market share of digital banking services"
+      ],
+      "recommended_actions": [
+        "Invest in cybersecurity measures to protect customer data",
+        "Develop a clear digital banking strategy and roadmap",
+        "Partner with fintech companies to leverage their expertise",
+        "Monitor customer feedback and adjust digital services accordingly",
+        "Continuously assess and improve digital banking infrastructure"
+      ]
+    },
+    {
+      "id": "scenario_20250824_145302_3483",
+      "type": "regulatory_change",
+      "title": "Regulatory Changes for Banking Sector",
+      "description": "New regulations impacting the entire banking industry",
+      "scope": "sector_wide",
+      "trigger": "Market evolution and competitive dynamics",
+      "timeline": "Next 3-12 months",
+      "affected_entities": [
+        "All major Tunisian banks",
+        "Regulators",
+        "Customers"
+      ],
+      "sector_impacts": [
+        "Changed competitive landscape",
+        "Customer behavior shifts",
+        "Regulatory response"
+      ],
+      "differential_impacts": {
+        "BIAT": "Higher impact due to larger market share and existing compliance infrastructure",
+        "BT": "Moderate impact, with potential benefits from digital transformation",
+        "ATB": "Lower impact, with potential opportunities for growth through diversification"
+      },
+      "metrics": [
+        "Overall market share",
+        "Digital adoption rates",
+        "Customer satisfaction scores"
+      ],
+      "probability": 80,
+      "impact_score": 8,
+      "risk_factors": [
+        "Increased compliance costs",
+        "Disruption to existing business models",
+        "Potential for increased capital requirements",
+        "Risk of non-compliance penalties"
+      ],
+      "opportunities": [
+        "Innovation in digital banking to reduce costs",
+        "Diversification of revenue streams",
+        "Enhanced risk management practices",
+        "Improved customer experience through streamlined processes"
+      ],
+      "indicators": [
+        "Regulatory capital adequacy ratio",
+        "Return on equity (ROE)",
+        "Cost-to-income ratio",
+        "Digital banking adoption rates"
+      ],
+      "recommended_actions": [
+        "Closely monitor regulatory developments and engage with policymakers",
+        "Conduct thorough impact assessments and develop contingency plans",
+        "Invest in digital transformation and innovation to reduce costs and enhance customer experience",
+        "Diversify revenue streams and improve risk management practices"
+      ]
+    }
+  ],
+  "recommendations": {
+    "sector_actions": {
+      "immediate_actions": [
+        "Conduct a thorough risk assessment to identify potential vulnerabilities in the face of rising interest rates and inflationary pressures",
+        "Implement measures to enhance liquidity management and maintain a stable funding base",
+        "Develop a contingency plan to address potential economic shocks impacting the banking sector",
+        "Accelerate digital transformation efforts to stay competitive in the industry-wide digital banking innovation scenario"
+      ]
+    },
+    "medium_term_strategies": {
+      "3-6_months": [
+        "Diversify revenue streams to mitigate the impact of rising interest rates and inflation",
+        "Invest in digital infrastructure to improve operational efficiency and customer experience",
+        "Enhance risk management capabilities to address potential economic shocks",
+        "Develop strategic partnerships to drive growth and innovation"
+      ]
+    },
+    "long_term_considerations": {
+      "6+_months": [
+        "Develop a comprehensive strategy to address the impact of regulatory changes on the banking sector",
+        "Invest in human capital development to drive innovation and growth",
+        "Explore opportunities for expansion into new markets and segments",
+        "Develop a sustainable business model that prioritizes social and environmental responsibility"
+      ]
+    },
+    "risk_mitigation": {
+      "large_banks": [
+        "Diversify revenue streams to reduce dependence on traditional banking activities",
+        "Implement robust risk management frameworks to address potential economic shocks"
+      ],
+      "medium_banks": [
+        "Focus on niche markets and segments to reduce competition from larger banks",
+        "Develop strategic partnerships to drive growth and innovation"
+      ],
+      "small_banks": [
+        "Prioritize digital transformation to improve operational efficiency and customer experience",
+        "Develop a specialized product or service offering to differentiate from larger banks"
+      ]
+    },
+    "opportunity_capture": {
+      "large_banks": [
+        "Invest in digital infrastructure to improve operational efficiency and customer experience",
+        "Develop strategic partnerships to drive growth and innovation"
+      ],
+      "medium_banks": [
+        "Focus on niche markets and segments to reduce competition from larger banks",
+        "Develop a specialized product or service offering to differentiate from larger banks"
+      ],
+      "small_banks": [
+        "Prioritize digital transformation to improve operational efficiency and customer experience",
+        "Develop strategic partnerships to drive growth and innovation"
+      ]
+    },
+    "bank_specific_recommendations": {
+      "BIAT": [
+        "Develop a comprehensive strategy to address the impact of regulatory changes on the banking sector",
+        "Invest in digital infrastructure to improve operational efficiency and customer experience"
+      ],
+      "BT": [
+        "Diversify revenue streams to mitigate the impact of rising interest rates and inflation",
+        "Enhance risk management capabilities to address potential economic shocks"
+      ],
+      "ATB": [
+        "Focus on niche markets and segments to reduce competition from larger banks",
+        "Develop a specialized product or service offering to differentiate from larger banks"
+      ]
+    },
+    "biat_enhanced_recommendations": [
+      "Develop a data analytics platform to improve customer insights and drive personalized marketing",
+      "Invest in artificial intelligence and machine learning to enhance risk management capabilities",
+      "Develop a comprehensive strategy to address the impact of regulatory changes on the banking sector"
+    ]
+  },
+  "memory_summary": {
+    "total_entries": 9,
+    "scenario_count": 4,
+    "evaluation_count": 4,
+    "banks_analyzed": 20,
+    "latest_timestamp": "2025-08-24T14:53:18.182214"
+  }
+}

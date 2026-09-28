@@ -1,0 +1,86 @@
+{
+    "retail_clusters_analysis": {
+        "total_clusters": 5,
+        "total_customers": 50093,
+        "analysis_date": "2025-08-25 18:19:02",
+        "clusters": [
+            {
+                "cluster_id": "cluster_0",
+                "archetype_name": "The Public Servant",
+                "description": "High-earning public sector employees in inland regions who prefer traditional banking services.",
+                "key_characteristics": {
+                    "demographics": "Middle-aged (median 44 years)",
+                    "income": "High and stable (median ~226k TND)",
+                    "sector": "Overwhelmingly public administration (99.6%)",
+                    "geography": "Exclusively inland governorates",
+                    "channel_preference": "Strong preference for Branch Visits and ATMs"
+                },
+                "size": 3272,
+                "percentage_of_total": 6.53
+            },
+            {
+                "cluster_id": "cluster_1",
+                "archetype_name": "The Agricultural Laborer",
+                "description": "Older, low-income agricultural workers in rural areas who rely heavily on in-branch services.",
+                "key_characteristics": {
+                    "demographics": "Oldest cluster (median 47 years)",
+                    "income": "Lowest income (median ~27k TND)",
+                    "sector": "Predominantly agriculture (98.2%)",
+                    "geography": "Exclusively inland and southern governorates",
+                    "channel_preference": "Heavily branch-dependent, lowest digital engagement"
+                },
+                "size": 6543,
+                "percentage_of_total": 13.06
+            },
+            {
+                "cluster_id": "cluster_2",
+                "archetype_name": "The Digital Entrepreneur & Industrial Worker",
+                "description": "Young, high-earning professionals in diverse industries who are extremely digitally savvy.",
+                "key_characteristics": {
+                    "demographics": "Youngest cluster (median 37 years)",
+                    "income": "High potential with variability (median ~244k TND)",
+                    "sector": "Diverse manufacturing, trade, and construction",
+                    "geography": "Widespread across coastal and industrial areas",
+                    "channel_preference": "Most digitally advanced, heavy users of Mobile App and Website"
+                },
+                "size": 12251,
+                "percentage_of_total": 24.45
+            },
+            {
+                "cluster_id": "cluster_3",
+                "archetype_name": "The Balanced Urban Professional",
+                "description": "Well-paid professionals in northern urban centers who use a balanced mix of banking channels.",
+                "key_characteristics": {
+                    "demographics": "Middle-aged (median 41 years)",
+                    "income": "Good, stable income (median ~214k TND)",
+                    "sector": "Diverse mix including manufacturing, public admin, education",
+                    "geography": "Exclusively wealthy urban coastal north",
+                    "channel_preference": "Balanced use of all channels - digital and traditional"
+                },
+                "size": 15989,
+                "percentage_of_total": 31.91
+            },
+            {
+                "cluster_id": "cluster_4",
+                "archetype_name": "The Branch-Dependent Service Worker",
+                "description": "Mid-career service sector professionals with moderate income who strongly prefer branch banking.",
+                "key_characteristics": {
+                    "demographics": "Slightly older (median 45 years)",
+                    "income": "Moderate income (median ~82k TND)",
+                    "sector": "Focused on education, health, and construction",
+                    "geography": "Mixed coastal and inland (not major northern centers)",
+                    "channel_preference": "Most branch-dependent, lowest digital adoption"
+                },
+                "size": 12038,
+                "percentage_of_total": 24.02
+            }
+        ],
+        "summary_insights": {
+            "demographic_trends": "Clear age progression from youngest (Cluster 2) to oldest (Cluster 1)",
+            "income_distribution": "Bimodal distribution with very high (Clusters 0,2,3) and very low (Cluster 1) earners",
+            "geographic_patterns": "Strong north-south and urban-rural divides in customer distribution",
+            "digital_adoption": "Significant variation in digital channel usage across clusters",
+            "sector_concentration": "Some clusters highly specialized (0,1) while others are highly diverse (2,3)"
+        }
+    }
+}

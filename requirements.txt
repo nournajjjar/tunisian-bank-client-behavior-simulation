@@ -1,0 +1,42 @@
+# Web app
+streamlit
+streamlit-folium
+folium
+plotly
+
+# Agent-based simulation (uses the Mesa 2.x API)
+mesa<3
+
+# LLM / RAG
+groq
+langchain
+langchain-community
+langchain-groq
+langgraph
+faiss-cpu
+sentence-transformers
+pypdf
+
+# NLP
+nltk
+spacy
+textblob
+gensim
+sumy
+
+# Data & ML
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+joblib
+networkx
+matplotlib
+seaborn
+umap-learn
+
+# Scraping & storage
+selenium
+requests
+beautifulsoup4
+azure-cosmos==4.5.1
+python-dotenv==1.0.1

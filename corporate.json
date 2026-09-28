@@ -1,0 +1,351 @@
+{
+  "cluster_0": {
+    "general_info": {
+      "total_enterprises": 183,
+      "employees_stats": {
+        "mean": 255.71584699453553,
+        "median": 108.0,
+        "min": 10.0,
+        "max": 5500.0,
+        "count": 183
+      },
+      "capital_stats": {
+        "mean": 221.5828947368421,
+        "median": 120.0,
+        "min": 1.905,
+        "max": 968.85,
+        "count": 95
+      }
+    },
+    "activities_distribution": {
+      "total_activities": 261,
+      "unique_activities": 91,
+      "top_activities": {
+        "Confection de vêtements de dessus": 22,
+        "Industries textiles n.c.a.": 22,
+        "Confection de vêtements de dessous": 18,
+        "Confection de vêtements de travail": 18,
+        "Confection de vêtements et accessoires": 13,
+        "Préparations pharmaceutiques": 11,
+        "Savons": 8,
+        "Finissage textile": 6,
+        "Confection de vêtements de dessus.": 6,
+        "Laiteries": 6,
+        "fromageries et yaourterie": 5,
+        "Industries textiles n.c.a": 4,
+        "Peintures": 4,
+        "Parfums et produits pour la toilette": 4,
+        "Preparations pharmaceutiques": 4,
+        "Produits pharmaceutiques de base.": 4,
+        "vernis et encres": 4,
+        "détergents et produits d'entretien": 4,
+        "Préparations pharmaceutiques.": 4,
+        "Fabrication de linges domestiques divers": 3
+      }
+    },
+    "gouvernorate_distribution": {
+      "total_enterprises_by_gouvernorate": 183,
+      "unique_gouvernorates": 16,
+      "gouvernorats": {
+        "Ariana": 9,
+        "Ben Arous": 23,
+        "Bizerte": 21,
+        "Gabes": 2,
+        "Jendouba": 2,
+        "Kairouan": 1,
+        "Mahdia": 4,
+        "Manouba": 5,
+        "Medenine": 2,
+        "Monastir": 42,
+        "Nabeul": 20,
+        "Sfax": 21,
+        "Sousse": 23,
+        "Tataouine": 1,
+        "Tunis": 6,
+        "Zaghouan": 1
+      }
+    }
+  },
+  "cluster_1": {
+    "general_info": {
+      "total_enterprises": 75,
+      "employees_stats": {
+        "mean": 689.6,
+        "median": 200.0,
+        "min": 24.0,
+        "max": 7847.0,
+        "count": 75
+      },
+      "capital_stats": {
+        "mean": 201.44062499999998,
+        "median": 76.5,
+        "min": 3.0,
+        "max": 930.0,
+        "count": 48
+      }
+    },
+    "activities_distribution": {
+      "total_activities": 181,
+      "unique_activities": 19,
+      "top_activities": {
+        "Fils": 68,
+        "câbles isolés et faisceaux de câbles": 60,
+        "Matériel de distribution et commande électrique": 13,
+        "câbles isolés et faisceaux de câbles.": 11,
+        "Composants électroniques": 11,
+        "Flis": 3,
+        "Moteurs": 2,
+        "génératrices et transformateurs électriques": 2,
+        "Bicyclettes": 1,
+        "Articles en fils métalliques": 1,
+        "Autres équipements aérauliques et frigorifiques industriels": 1,
+        "Motocycles": 1,
+        "Matériels électriques pour moteurs et véhicules": 1,
+        "Câbles spéciaux": 1,
+        "Pièces mécaniques usinées (alésage": 1,
+        "Ventilateurs autres que domestiques": 1,
+        "Réparation de matériels électriques": 1,
+        "fraisage": 1,
+        "tournage...)": 1
+      }
+    },
+    "gouvernorate_distribution": {
+      "total_enterprises_by_gouvernorate": 75,
+      "unique_gouvernorates": 13,
+      "gouvernorats": {
+        "Ariana": 4,
+        "Beja": 1,
+        "Ben Arous": 10,
+        "Bizerte": 11,
+        "Gafsa": 1,
+        "Jendouba": 1,
+        "Manouba": 1,
+        "Monastir": 9,
+        "Nabeul": 17,
+        "Sfax": 1,
+        "Sousse": 11,
+        "Tunis": 5,
+        "Zaghouan": 3
+      }
+    }
+  },
+  "cluster_2": {
+    "general_info": {
+      "total_enterprises": 408,
+      "employees_stats": {
+        "mean": 172.39705882352942,
+        "median": 67.0,
+        "min": 10.0,
+        "max": 4976.0,
+        "count": 408
+      },
+      "capital_stats": {
+        "mean": 269.95112676056334,
+        "median": 140.0,
+        "min": 1.0,
+        "max": 990.0,
+        "count": 142
+      }
+    },
+    "activities_distribution": {
+      "total_activities": 609,
+      "unique_activities": 212,
+      "top_activities": {
+        "Constructions métalliques": 28,
+        "Autres articles en matières plastiques": 22,
+        "Emballages en matières plastiques": 20,
+        "Mécanique générale": 19,
+        "Autre Imprimerie de labeur": 16,
+        "Matériel de distribution et commande électrique": 15,
+        "Composants électroniques": 13,
+        "Réservoirs et citernes métalliques": 13,
+        "Plaques": 13,
+        "feuilles": 13,
+        "Carton ondule et emballages en papier ou en Carton (Etuis et boîtes pliants en carton compact)": 12,
+        "tubes et profiles en matières plastiques": 11,
+        "Equipements automobiles": 10,
+        "Ouvrages mécano soudé": 10,
+        "Articles en ciment ou en béton (tuyaux et conduits)": 10,
+        "Menuiseries et fermetures métalliques": 9,
+        "Autres Articles en papier ou en carton": 8,
+        "Béton prêt à l'emploi": 7,
+        "Aliments pour animaux de ferme": 7,
+        "Ouvrages divers en métaux": 7
+      }
+    },
+    "gouvernorate_distribution": {
+      "total_enterprises_by_gouvernorate": 409,
+      "unique_gouvernorates": 25,
+      "gouvernorats": {
+        "Ariana": 22,
+        "Beja": 4,
+        "Ben Arous": 79,
+        "Bizerte": 32,
+        "Bizette": 1,
+        "Gabes": 13,
+        "Gafsa": 2,
+        "Jendouba": 3,
+        "Kairouan": 1,
+        "Kebili": 1,
+        "Le kef": 2,
+        "Mahdia": 3,
+        "Manouba": 15,
+        "Medenine": 1,
+        "Monastir": 27,
+        "Nabeul": 38,
+        "Sfax": 94,
+        "Sidi Bouzid": 2,
+        "Siliana": 4,
+        "Sousse": 50,
+        "Tataouine": 3,
+        "Tataquine": 1,
+        "Tunis": 1,
+        "Utique": 1,
+        "Zaghouan": 9
+      }
+    }
+  },
+  "cluster_3": {
+    "general_info": {
+      "total_enterprises": 168,
+      "employees_stats": {
+        "mean": 147.64285714285714,
+        "median": 80.0,
+        "min": 10.0,
+        "max": 1850.0,
+        "count": 168
+      },
+      "capital_stats": {
+        "mean": 10755263.788679244,
+        "median": 488.0,
+        "min": 1.8,
+        "max": 570007000.0,
+        "count": 53
+      }
+    },
+    "activities_distribution": {
+      "total_activities": 324,
+      "unique_activities": 60,
+      "top_activities": {
+        "Conditionnement et entreposage frigorifique de fruits et de légumes": 44,
+        "Transformation": 25,
+        "conservation": 25,
+        "Conservation et semi-conservation d'autres légumes": 20,
+        "Transformation et conservation de fruits et légumes": 20,
+        "congélation et surgélation poisson et fruits de mer": 20,
+        "Huiles d'olives et conditionnement": 19,
+        "Transformation et conservation de tomates": 19,
+        "biscuiterie": 11,
+        "pâtisserie de conservation": 11,
+        "Biscotterie": 11,
+        "Aliments pour animaux de ferme": 6,
+        "Meunerie": 6,
+        "Travail des grains (semoulerie)": 5,
+        "Laiteries": 5,
+        "Boissons rafraîchissantes": 5,
+        "congélation et surgélation poisson et fruits de mer.": 5,
+        "Jus de fruits et de légumes": 4,
+        "Pâtisserie": 4,
+        "Conditionnement et entreposage frigorifique de fruits et de légumes.": 4
+      }
+    },
+    "gouvernorate_distribution": {
+      "total_enterprises_by_gouvernorate": 168,
+      "unique_gouvernorates": 21,
+      "gouvernorats": {
+        "Ariana": 4,
+        "Beja": 3,
+        "Ben Arous": 26,
+        "Bizerte": 10,
+        "Gabes": 2,
+        "Gafsa": 1,
+        "Jendouba": 1,
+        "Kairouan": 5,
+        "Kebili": 9,
+        "Le kef": 1,
+        "Mahdia": 1,
+        "Manouba": 7,
+        "Medenine": 4,
+        "Monastir": 7,
+        "Nabeul": 44,
+        "Sfax": 18,
+        "Sidi Bouzid": 1,
+        "Sousse": 15,
+        "Tozeur": 4,
+        "Tunis": 4,
+        "Zaghouan": 1
+      }
+    }
+  },
+  "cluster_4": {
+    "general_info": {
+      "total_enterprises": 258,
+      "employees_stats": {
+        "mean": 247.64728682170542,
+        "median": 103.5,
+        "min": 10.0,
+        "max": 3489.0,
+        "count": 258
+      },
+      "capital_stats": {
+        "mean": 1795098.1975578947,
+        "median": 170.0,
+        "min": 3.0,
+        "max": 170507000.0,
+        "count": 95
+      }
+    },
+    "activities_distribution": {
+      "total_activities": 375,
+      "unique_activities": 170,
+      "top_activities": {
+        "Autres articles en matières plastiques": 17,
+        "Mécanique générale": 13,
+        "Matériel de distribution et commande électrique": 12,
+        "Composants électroniques": 11,
+        "Emballages en matières plastiques": 9,
+        "Equipements automobiles": 8,
+        "Plaques": 7,
+        "tubes et profiles en matières plastiques": 7,
+        "feuilles": 7,
+        "Constructions métalliques": 7,
+        "Boissons rafraîchissantes": 5,
+        "Traitement et revêtement des métaux": 5,
+        "Peintures": 5,
+        "Parfums et produits pour la toilette": 5,
+        "Savons": 4,
+        "Instruments de mesure et de contrôle": 4,
+        "Moteurs": 4,
+        "détergents et produits d'entretien": 4,
+        "Façonnage et transformation du verre plat": 4,
+        "Béton prêt à l'emploi": 4
+      }
+    },
+    "gouvernorate_distribution": {
+      "total_enterprises_by_gouvernorate": 260,
+      "unique_gouvernorates": 20,
+      "gouvernorats": {
+        "Ariana": 7,
+        "Beja": 1,
+        "Ben Arous": 56,
+        "Bizerte": 19,
+        "Gabes": 3,
+        "Gafsa": 1,
+        "Jendouba": 1,
+        "Kairouan": 2,
+        "Kasserine": 2,
+        "Mahdia": 1,
+        "Manouba": 8,
+        "Medenine": 4,
+        "Monastir": 14,
+        "Nabeul": 30,
+        "Sfax": 24,
+        "Siliana": 2,
+        "Sousse": 33,
+        "Tataouine": 1,
+        "Tunis": 47,
+        "Zaghouan": 4
+      }
+    }
+  }
+}
