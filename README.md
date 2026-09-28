@@ -87,12 +87,24 @@ Configure a campaign and run the simulation:
 
 Outputs: adoption and churn curves, average satisfaction, **3D cluster analysis**, cluster characteristics and performance, and feature importance.
 
-![Simulator](screenshots/simulator.png)
+**Campaign configuration and 3D cluster preview**
+
+![Simulator setup](screenshots/simulator_setup.png)
+
+**Simulation results: KPIs (total clients, adoption rate, satisfaction, churn) and cluster distribution by sector and channel**
+
+![Simulator results](screenshots/simulator_results.png)
 
 ### 3. Regional Analyst — `pages/distribution_map.py`
 Interactive **Folium** map of Tunisia's 22 regional directorates with client counts, marker clusters and statistics, plus a corporate vs. retail distribution by governorate.
 
-![Map](screenshots/map.png)
+**Regional distribution: map and counts per region**
+
+![Regional distribution](screenshots/map_regional.png)
+
+**Corporate distribution by governorate**
+
+![Corporate distribution](screenshots/map_corporate.png)
 
 ---
 
